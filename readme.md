@@ -1,4 +1,4 @@
-# 【JavaScript pettern】
+# 【JavaScript pattern】
 * 話すこと
 	* javascriptコードの人が書いたコードで辛いパターンについて
 	* thisについて
