@@ -31,14 +31,12 @@
 	* それを理解するだけで、thisの数は減るはず
 	
 ```
-var test = 'aaa';
+var test = 'hogehoge';
 function hoge(){
-	var test = 'bbb';
-	console.log(test);
+  var test = 'bbb';
+  console.log(test);
 }
-hoge.prototype = {
-	test: 'hogehoge'
-};
+hoge();
 ```
 	
 	
