@@ -33,6 +33,7 @@
 ```
 var test = 'hogehoge';
 function hoge(){
+  // this.test = 'bbb'; -> アンチパターン
   var test = 'bbb';
   console.log(test);
 }
